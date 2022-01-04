@@ -16,7 +16,7 @@ public class Car {
 	}
 	public void breakDown() {
 		
-		speed = speed - 10;
+		speed = speed - 100;
 		
 	}
 	public int getCurrentSpeed() {
